@@ -1,5 +1,7 @@
 ## Idle Daddy
 
+#2025-12-17-1
+
 fork of https://github.com/steevp/UpdogFarmer
 
 Steam Trading Card farmer for Android
