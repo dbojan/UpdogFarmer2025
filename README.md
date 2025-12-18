@@ -23,7 +23,7 @@ Battery optimization: Optimizing battery use
 -Login to Idle Daddy  
 Go to games, select games to run, up to 32  
 
-**time played increase**
+**inspecting time played increase**
 
 -you will not see game time increase until: **at least two minutes have passed**, AND, you have **deselected games in ID**.  
 -if you don't check times, **it will still be increasing**, of course.  
