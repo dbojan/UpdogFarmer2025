@@ -10,7 +10,7 @@ work in progress...
 
 buildable in android studio. 
 
-you have to enter you steam api key in app.
+you have to **enter you steam api key** in app.
 
 admob removed.
 
