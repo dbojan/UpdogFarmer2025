@@ -57,3 +57,7 @@ I do not think 'start farming works', cause it does not recognize games that hav
 -you have to enter you steam api  
 -admob removed  
 -apk added  
+
+
+**2025-12-18-1**
+-buildable in android  
