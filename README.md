@@ -21,8 +21,6 @@ you can download source and apk installer.
 
 <hr>
 
-2025-12-18-1 notes, for all versions of the app:
-
 **Running Idle Daddy:**  
 
 Settings that work for me on Android 10:  
