@@ -10,7 +10,7 @@ work in progress...
 
 buildable in android studio. 
 
-you have to enter you steam api in app.
+you have to enter you steam api key in app.
 
 admob removed.
 
@@ -54,7 +54,7 @@ I do not think 'start farming works', cause it does not recognize games that hav
 
 
 **2026-02-08-1**  
--you have to enter you steam api  
+-you have to enter you steam api key in app  
 -admob removed  
 -apk added  
 
