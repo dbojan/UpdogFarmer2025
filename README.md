@@ -1,6 +1,6 @@
 ## Idle Daddy
 
-#2025-12-17-1
+#2026-02-08-1
 
 fork of https://github.com/steevp/UpdogFarmer
 
@@ -8,7 +8,13 @@ Steam Trading Card farmer for Android
 
 work in progress...
 
-buildable in android studio, you have to enter you steam api instead of dymmy variable in gradle.properties
+buildable in android studio, you have to enter you steam api
+
+admob removed.
+
+finding which games have cards does not work, use steamcommunity with augumented steam (firefox, enable load on click plugin, go to 'badges' page on steamcommunty, select games that have trading cards.)
+
+you can download source and apk.
 
 
 <hr>
@@ -45,3 +51,9 @@ I do not think 'start farming works', cause it does not recognize games that hav
 -if you click on game in 'games listing' screen, it will stop 'card farming' mode, and start 'playing game(s)' mode  
 
 -if you click on stop service, Idle Daddy will log you out.  
+
+
+**2026-02-08-1**  
+-you have to enter you steam api  
+-admob removed  
+-apk added  
