@@ -16,7 +16,7 @@ admob removed.
 
 finding which games have cards does not work, use steamcommunity with augumented steam (firefox, enable load on click plugin, go to 'badges' page on steamcommunty, select games that have trading cards.)
 
-you can download source and apk.
+you can download source and apk installer.
 
 
 <hr>
