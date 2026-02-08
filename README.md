@@ -8,7 +8,9 @@ Steam Trading Card farmer for Android
 
 work in progress...
 
-buildable in android studio, you have to enter you steam api
+buildable in android studio. 
+
+you have to enter you steam api in app.
 
 admob removed.
 
