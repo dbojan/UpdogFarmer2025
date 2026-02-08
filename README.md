@@ -28,7 +28,8 @@ Settings that work for me on Android 10:
   - Background restriction: App can use battery in the background  
   - Battery optimization: Optimizing battery use  
 - Open Idle Daddy/settings/keep device awake = on  
-- Login to Idle Daddy  
+- Login to Idle Daddy
+- Enter your steam api key, if you have not before, click save
 - Go to games, select games to run, up to 32  
 
 - DO NOT click on 'start farming' on the main page, it will switch app to 'card farming' mode  
